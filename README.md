@@ -9,10 +9,9 @@ A modification for Minecraft that adds block physics.
   
   - Built to tolerate slow multiplayer connections.
   
-  - Update rates are configurable so large worlds can be handled. For example the client can display
-  a maximum of N moves at a time.  The server can send N packets per second etc..
+  - Processing can be limited by number of chunk per tick etc..
   
-  - Uses plain rendering isntead of entities or block states.  That avoids some of the tracking done by the regular game client.
+  - Uses plain rendering isntead of entities or block states.
   
   - For more information see https://github.com/MattJohns/Floaxial/wiki/Floaxial-Documentation .
   
