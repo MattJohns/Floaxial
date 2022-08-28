@@ -14,6 +14,8 @@ A modification for Minecraft that adds block physics.
   
   - Uses plain rendering isntead of entities or block states.  That avoids some of the tracking done by the regular game client.
   
+  - For more information see https://github.com/MattJohns/Floaxial/wiki/Floaxial-Documentation .
+  
 # Roadmap
 
   - 2022 Aug: 
