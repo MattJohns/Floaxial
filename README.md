@@ -15,6 +15,6 @@ Due for alpha release 2022 Oct.
   
   - Uses plain rendering isntead of entities or block states.
   
-  - See [Documentation](https://github.com/MattJohns/Floaxial/wiki/Floaxial-Documentation) for more information.
-  
-  - [Development Roadmap](https://github.com/MattJohns/Floaxial/wiki/Development-Roadmap) shows the planned release dates. 
+See [Documentation](https://github.com/MattJohns/Floaxial/wiki/Floaxial-Documentation) for more information.
+
+[Development Roadmap](https://github.com/MattJohns/Floaxial/wiki/Development-Roadmap) shows the planned release dates. 
