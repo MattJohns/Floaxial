@@ -1,6 +1,8 @@
 # Floaxial
 A modification for Minecraft that adds block physics.
 
+Due for alpha release 2022 Oct.
+
 # Overview
 
   - Make any block a falling type (stone, dirt, water).
@@ -13,6 +15,6 @@ A modification for Minecraft that adds block physics.
   
   - Uses plain rendering isntead of entities or block states.
   
-  - For more information see https://github.com/MattJohns/Floaxial/wiki/Floaxial-Documentation .
+  - See [Documentation](https://github.com/MattJohns/Floaxial/wiki/Floaxial-Documentation) for more information.
   
-  - Development Roadmap: https://github.com/MattJohns/Floaxial/wiki/Development-Roadmap
+  - [Development Roadmap](https://github.com/MattJohns/Floaxial/wiki/Development-Roadmap) shows the planned release dates. 
